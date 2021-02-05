@@ -9,3 +9,4 @@
 # Le diverse stanze vengono prenotate per periodi di tempo, da ospiti. 
 # Ad ogni prenotazione devono essere associati tutti gli ospiti della stanza.
 # Nella repo mettete sia il file del diagramma che il file esportato come immagine.
+
